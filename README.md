@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gagandeep</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUwYzN3cmdyMWs4Z3JxMjhqZzR4cjJsZXRwcDZhejI1aG51ZGx2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
+<img align="right" alt="coding" width="400"src"="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUwYzN3cmdyMWs4Z3JxMjhqZzR4cjJsZXRwcDZhejI1aG51ZGx2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeep&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeep" /> </p>
 
