@@ -105,7 +105,7 @@
 ## 💡 Profile Summary Card
 
 <p align="center">
-  <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepubaner&theme=default) " />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepubaner&theme=default " />
 </p>
 
 ---
